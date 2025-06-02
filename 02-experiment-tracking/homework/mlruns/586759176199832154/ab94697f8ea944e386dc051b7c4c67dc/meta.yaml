@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/586759176199832154/ab94697f8ea944e386dc051b7c4c67dc/artifacts
+end_time: 1748859466239
+entry_point_name: ''
+experiment_id: '586759176199832154'
+lifecycle_stage: active
+run_id: ab94697f8ea944e386dc051b7c4c67dc
+run_name: enchanting-koi-707
+run_uuid: ab94697f8ea944e386dc051b7c4c67dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748859451013
+status: 3
+tags: []
+user_id: codespace

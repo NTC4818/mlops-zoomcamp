@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/586759176199832154/03769388bd46437e9c91373d0eacfc80/artifacts
+end_time: 1748859475543
+entry_point_name: ''
+experiment_id: '586759176199832154'
+lifecycle_stage: active
+run_id: 03769388bd46437e9c91373d0eacfc80
+run_name: grandiose-crab-206
+run_uuid: 03769388bd46437e9c91373d0eacfc80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748859470994
+status: 3
+tags: []
+user_id: codespace

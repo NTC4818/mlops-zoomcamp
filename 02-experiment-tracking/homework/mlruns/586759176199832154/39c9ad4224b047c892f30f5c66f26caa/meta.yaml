@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/586759176199832154/39c9ad4224b047c892f30f5c66f26caa/artifacts
+end_time: 1748859485247
+entry_point_name: ''
+experiment_id: '586759176199832154'
+lifecycle_stage: active
+run_id: 39c9ad4224b047c892f30f5c66f26caa
+run_name: serious-skunk-392
+run_uuid: 39c9ad4224b047c892f30f5c66f26caa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748859475559
+status: 3
+tags: []
+user_id: codespace

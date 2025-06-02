@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/586759176199832154/89d584c24f6e49098294845156dc3b6b/artifacts
+end_time: 1748859535116
+entry_point_name: ''
+experiment_id: '586759176199832154'
+lifecycle_stage: active
+run_id: 89d584c24f6e49098294845156dc3b6b
+run_name: caring-crane-694
+run_uuid: 89d584c24f6e49098294845156dc3b6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748859524979
+status: 3
+tags: []
+user_id: codespace

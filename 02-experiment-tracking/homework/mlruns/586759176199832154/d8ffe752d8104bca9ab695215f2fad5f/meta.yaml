@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/586759176199832154/d8ffe752d8104bca9ab695215f2fad5f/artifacts
+end_time: 1748859559673
+entry_point_name: ''
+experiment_id: '586759176199832154'
+lifecycle_stage: active
+run_id: d8ffe752d8104bca9ab695215f2fad5f
+run_name: calm-crab-655
+run_uuid: d8ffe752d8104bca9ab695215f2fad5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748859552165
+status: 3
+tags: []
+user_id: codespace

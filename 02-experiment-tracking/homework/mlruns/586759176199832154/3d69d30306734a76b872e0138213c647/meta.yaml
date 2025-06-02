@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/586759176199832154/3d69d30306734a76b872e0138213c647/artifacts
+end_time: 1748859519766
+entry_point_name: ''
+experiment_id: '586759176199832154'
+lifecycle_stage: active
+run_id: 3d69d30306734a76b872e0138213c647
+run_name: likeable-ray-918
+run_uuid: 3d69d30306734a76b872e0138213c647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748859506098
+status: 3
+tags: []
+user_id: codespace

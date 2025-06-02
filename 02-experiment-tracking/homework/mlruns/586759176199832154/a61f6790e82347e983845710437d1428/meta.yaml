@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/586759176199832154/a61f6790e82347e983845710437d1428/artifacts
+end_time: 1748859506074
+entry_point_name: ''
+experiment_id: '586759176199832154'
+lifecycle_stage: active
+run_id: a61f6790e82347e983845710437d1428
+run_name: bright-mink-59
+run_uuid: a61f6790e82347e983845710437d1428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748859492039
+status: 3
+tags: []
+user_id: codespace

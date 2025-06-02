@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/586759176199832154/d26623c4d16a4de3a48f799201a3cb79/artifacts
+end_time: 1748859572308
+entry_point_name: ''
+experiment_id: '586759176199832154'
+lifecycle_stage: active
+run_id: d26623c4d16a4de3a48f799201a3cb79
+run_name: funny-sow-869
+run_uuid: d26623c4d16a4de3a48f799201a3cb79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748859564800
+status: 3
+tags: []
+user_id: codespace

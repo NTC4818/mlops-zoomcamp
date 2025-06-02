@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/586759176199832154/d76dbe1c074a4049ab38e61627f29a4d/artifacts
+end_time: 1748859492022
+entry_point_name: ''
+experiment_id: '586759176199832154'
+lifecycle_stage: active
+run_id: d76dbe1c074a4049ab38e61627f29a4d
+run_name: agreeable-perch-980
+run_uuid: d76dbe1c074a4049ab38e61627f29a4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748859485283
+status: 3
+tags: []
+user_id: codespace

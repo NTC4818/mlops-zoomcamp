@@ -7,7 +7,14 @@ import logging
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import root_mean_squared_error
 
+# Set the tracking URI to a local SQLite database file
+mlflow.set_tracking_uri("sqlite:///mlruns.db")
+
+# Set the default artifact URI to a local folder named 'artifacts'
+# mlflow.set_artifact_uri("./artifacts")
+# -----------------------------------------------------------------
 logging.basicConfig(level=logging.DEBUG)
+
 
 def load_pickle(filename: str):
     with open(filename, "rb") as f_in:

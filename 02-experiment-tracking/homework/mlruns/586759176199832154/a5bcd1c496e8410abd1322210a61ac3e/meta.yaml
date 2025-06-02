@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/586759176199832154/a5bcd1c496e8410abd1322210a61ac3e/artifacts
+end_time: 1748859564774
+entry_point_name: ''
+experiment_id: '586759176199832154'
+lifecycle_stage: active
+run_id: a5bcd1c496e8410abd1322210a61ac3e
+run_name: fearless-hound-221
+run_uuid: a5bcd1c496e8410abd1322210a61ac3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748859559692
+status: 3
+tags: []
+user_id: codespace
